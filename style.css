@@ -1,0 +1,107 @@
+body{
+    background-image:url(https://media.istockphoto.com/id/1454461374/photo/cartboard-texture.jpg?s=612x612&w=0&k=20&c=txu2dgU6bPbO3H1Q-Ru0o3pvDtY_f4i1ethWdYzhafc=) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 30px;
+    line-height: 0.3;
+}
+ul{
+    list-style-type:none;
+    word-spacing: 5px;
+    test
+
+}
+li{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    padding: 2rem;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    color: rgb(223, 185, 17);
+}
+.global{
+    border: 1px solid seagreen;
+    border-radius: 2rem 5rem 2rem 5rem yellow;
+    text-align: center;
+    text-shadow: 2px 2px 5px yellow;
+    height: 250px;
+    width:100%;
+    background-color: rgb(146, 11, 11);
+    font-style: bold;
+    font-size: 25px;
+    font-family: Oswald;
+}
+p{
+    white-space: wrap;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+
+}
+.thursday{
+        background-color: #fff;
+        border: 1px solid yellow;
+        border-radius: 2rem 15rem 4rem 15rem;
+        display: block;
+        margin: auto;
+        position:relative;
+        font-family: Georgia, 'Times New Roman', Times, serif; 
+        font-size: 20px;
+}
+.thursday p{
+    color: crimson;
+}
+.date{
+    text-align: center !important;
+    font-size: 30px;
+    color:black;
+}
+.friday{
+    background-color: #fff;
+        border: 1px solid yellow;
+        border-radius: 2rem 15rem 4rem 15rem;
+        display: block;
+        margin: auto;
+        position:relative;
+        font-family: Georgia, 'Times New Roman', Times, serif; 
+        font-size: 20px;
+}
+.friday p{
+    color: crimson;
+}
+.saturday{
+    background-color: #fff;
+        border: 1px solid yellow;
+        border-radius: 2rem 15rem 4rem 15rem;
+        display: block;
+        margin: auto;
+        position:relative;
+        font-family: Georgia, 'Times New Roman', Times, serif; 
+        font-size: 20px;
+}
+.saturday p{
+    color: crimson;
+}
+.thursday p:hover{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
+.friday p:hover{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
+.saturday p:hover{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
